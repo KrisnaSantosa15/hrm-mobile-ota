@@ -2,12 +2,12 @@
     "platform":  "android",
     "channel":  "production",
     "runtimeVersion":  "android-1.0.0-hermes-rn081",
-    "version":  6,
-    "updateId":  "ota-android-production-v6",
-    "createdAt":  "2026-05-01T08:24:39Z",
-    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v6.zip",
-    "sha256":  "de5bf76da7f7ae09254e82214e2988781011c10569cf0f0e8ae385dbee572e9a",
-    "mandatory":  false,
+    "version":  7,
+    "updateId":  "ota-android-production-v7",
+    "createdAt":  "2026-05-01T08:34:39Z",
+    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v7.zip",
+    "sha256":  "46a60822f9fce9f8ef3bca4bf1e02d116026877ad92fc0d75d576bb66535c09e",
+    "mandatory":  true,
     "disabled":  false,
-    "message":  "V6 update"
+    "message":  "Fix OTA manifest parsing and Expo Go compatibility"
 }
