@@ -1,4 +1,4 @@
-﻿{
+{
     "platform":  "android",
     "channel":  "production",
     "runtimeVersion":  "android-1.0.0-hermes-rn081",
