@@ -2,12 +2,12 @@
     "platform":  "android",
     "channel":  "production",
     "runtimeVersion":  "android-1.0.0-hermes-rn081",
-    "version":  10,
-    "updateId":  "ota-android-production-v10",
-    "createdAt":  "2026-05-01T09:27:54Z",
-    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v10.zip",
-    "sha256":  "a72820dfabc237c6669ce38bb02cd2e72c7ea4d50cc771420365572dc083c698",
+    "version":  11,
+    "updateId":  "ota-android-production-v11",
+    "createdAt":  "2026-05-01T09:45:26Z",
+    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v11.zip",
+    "sha256":  "181836c5db07fa23c44005fd22b553829efeb6b97313823357ed104ae41adaf2",
     "mandatory":  false,
     "disabled":  false,
-    "message":  "Fix OTA vector icon font loading"
+    "message":  "Dynamic semantic app version from OTA"
 }
