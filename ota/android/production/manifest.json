@@ -2,12 +2,12 @@
     "platform":  "android",
     "channel":  "production",
     "runtimeVersion":  "android-1.0.0-hermes-rn081",
-    "version":  8,
-    "updateId":  "ota-android-production-v8",
-    "createdAt":  "2026-05-01T08:43:50Z",
-    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v8.zip",
-    "sha256":  "801c317d35bf1c50c6d16537779dd477d3cfec66debe2c6d241262cbee421e3c",
-    "mandatory":  true,
-    "disabled":  true,
-    "message":  "OTA temporarily disabled while fixing icon asset loading"
+    "version":  9,
+    "updateId":  "ota-android-production-v9",
+    "createdAt":  "2026-05-01T09:12:04Z",
+    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v9.zip",
+    "sha256":  "cba275adca5b5160af13eba0e33a2fb6ac9db42ff4a718520bcb9a5fa6cc8dcf",
+    "mandatory":  false,
+    "disabled":  false,
+    "message":  "test new ota"
 }
