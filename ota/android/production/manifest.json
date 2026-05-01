@@ -8,6 +8,6 @@
     "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v8.zip",
     "sha256":  "801c317d35bf1c50c6d16537779dd477d3cfec66debe2c6d241262cbee421e3c",
     "mandatory":  true,
-    "disabled":  false,
-    "message":  "Fix OTA assets and add update confirmation"
+    "disabled":  true,
+    "message":  "OTA temporarily disabled while fixing icon asset loading"
 }
