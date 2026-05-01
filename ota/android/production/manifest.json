@@ -1,0 +1,13 @@
+﻿{
+    "platform":  "android",
+    "channel":  "production",
+    "runtimeVersion":  "android-1.0.0-hermes-rn081",
+    "version":  1,
+    "updateId":  "ota-android-production-v1",
+    "createdAt":  "2026-05-01T06:36:11Z",
+    "bundleUrl":  "https://krisnasantosa15.github.io/hrm-mobile-ota/ota/android/production/bundles/ota-android-production-v1.zip",
+    "sha256":  "d5677d0747e508d710cf3e910d791a87dd2e400fd0708f9bb5f0ae38cf154726",
+    "mandatory":  false,
+    "disabled":  false,
+    "message":  "Initial OTA update"
+}
